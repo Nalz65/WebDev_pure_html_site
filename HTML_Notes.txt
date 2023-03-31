@@ -1,0 +1,59 @@
+HTML TABLES: 
+
+You can use a table to create a padding effect using just HTML.
+
+It helps structure the data.
+
+You can declare Header, body and footer
+- In header you can add titles
+- Body has content
+
+Why you need thead and tbody and tfoot, we may format different for each section
+
+There is no styling or format applied when using Table element
+
+HTML TABLE LAYOUT:
+ Did the code challenge.
+
+HTML FORMS:
+
+will have to create contact me page.
+
+Understand <form> element. Read attributes to understand how it works
+
+Need to specify behaviour of the form.
+
+need two elements to use form, label and input.
+
+Need JS to tap into full functionality of form
+
+form inputs being used for section
+label
+text
+submit
+etx, check mdn web doc
+
+check exercise around 8 min.
+
+FORMS IN PRACTICE - CREATING A CONTACT ME FORM:
+ We just need to structure the form.
+
+
+31/03/2021
+
+FORMS IN PRACTICE:
+We will revisit forms in Javascript
+
+PUBLISH YOUR WEBSITE:
+Website is currently local.
+
+Need to host website somewhere
+
+For learning, free solution is Github
+Using the feature, hosting our website
+Choose the free plan
+Initialize with a ReadMe
+Github Pages, must enable it in settings
+Can publish on Pages
+
+Go to code tab and check index.html file as it is your home page
